@@ -1,0 +1,23 @@
+{
+    "name": "kefas-safek/rest-response",
+    "type": "library",
+    "description": "PHP Rest response object",
+    "keywords": ["REST", "REST API", "API"],
+    "homepage": "https://github.com/kefas-safek/RestResponse",
+    "license": "MIT",
+    "version": "dev-master",
+    "authors": [
+        {
+            "name": "Piotr Dombrowski",
+            "email": "kefas@g.pl"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "RestResponse": "src"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
