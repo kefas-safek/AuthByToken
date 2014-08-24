@@ -4,7 +4,7 @@ namespace AuthByToken\Adapter;
 
 class AuthByTokenAdapter implements \Zend\Authentication\Adapter\AdapterInterface {
 
-    /**
+    /** 
      * @var string 
      */
     protected $tokenParam = '_t';
