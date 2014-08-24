@@ -19,8 +19,7 @@
     },
     "require": {
         "php": ">=5.4.0",
-        "zendframework/zend-authentication":"dev-master",
-        "zendframework/zend-http":"dev-master"
-        
+        "zendframework/zend-authentication":"*",
+        "zendframework/zend-http":"*"
     }
 }
